@@ -1,0 +1,13 @@
+********MAKE SURE PATH AND CLASSPATHS ARE SET**********
+
+-- ATM (Bank Machine App) Communicating via SOAP --
+
+Run server: javac ATMServer
+ (should be listening on port 6666)
+
+Run client: javac ATMClient
+ (example 'account no' and 'pin' numbers on screen)
+
+Run AccountGUI (from server dir): javac AccountsGUI
+
+
